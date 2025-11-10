@@ -144,4 +144,12 @@ __*6. Recursos y entregables del repositorio*__
 
 Este proyecto demuestra habilidades avanzadas en la arquitectura de la IA (EufonIA), el desarrollo de Python para datos y el análisis de Machine Learning con herramientas visuales (KNIME).
 
-This project demonstrates advanced skills in AI architecture (EufonIA), Python development for data, and Machine Learning analysis with visual tools (KNIME)!
+This project demonstrates advanced skills in AI architecture (EufonIA), Python development for data, and Machine Learning analysis with visual tools (KNIME)
+
+
+__________________
+Spotify (  Mis Playlists para Dataset)
+https://open.spotify.com/playlist/7E8yhRsDB0hLyxQH3GQEtL?si=0e67cc7df6374189
+https://open.spotify.com/playlist/2ndgWsfmoGjCRbNRagsxos?si=5dfcc4d70c7b41c4
+https://open.spotify.com/playlist/26wZRvTn8JqoDoESd83w6A?si=89f894f090bc47e0
+
